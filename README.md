@@ -1,4 +1,4 @@
-# NYC_cab_traffic_EDA
+# NYC Taxi Rides Analysis
 An analysis of NYC taxi traffic in Python
 ## Technologies
 - Python
