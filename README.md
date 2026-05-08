@@ -1,5 +1,9 @@
 # NYC Taxi Rides Analysis
 An analysis of NYC taxi traffic in Python
+
+Exploratory Data Analysis of NYC Yellow Taxi data from January 2025.
+The purpose of this project, apart from the analysis itself, is to gain experience working with large datasets, as well as with Pandas and Matplotlib modules.
+
 ## Technologies
 - Python
 - Pandas
